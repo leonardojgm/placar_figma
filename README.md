@@ -1,4 +1,4 @@
-Layout de placares de jogos de futebol europeu com figma.
+Layout de placares de jogos de futebol europeu com Figma.
 
 Desenvolvido assistindo Dio.
 
